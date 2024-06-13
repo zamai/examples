@@ -30,7 +30,7 @@ Add `http://localhost:3000` to the *Allowed Web Origins*.
 
 In the Auth0 dashboard, go to the *APIs* page.
 
-Create a new API, give it a name and an identifier. When the API is created, copy the `API Audeience`URL.
+Create a new API, give it a name and an identifier. When the API is created, copy the `API audience`URL.
 
 ### Config values
 
